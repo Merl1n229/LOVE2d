@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Звук_Глухой_удар_по_поверхности_mp3cut_net.wav-2e0bbf5e4e65b7691eaf5ebb17197379.sample"
+
+[deps]
+
+source_file="res://assets/audio/Звук_Глухой_удар_по_поверхности_mp3cut_net.wav"
+dest_files=[ "res://.import/Звук_Глухой_удар_по_поверхности_mp3cut_net.wav-2e0bbf5e4e65b7691eaf5ebb17197379.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
